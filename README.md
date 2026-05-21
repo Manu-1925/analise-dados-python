@@ -6,6 +6,7 @@ Projeto desenvolvido utilizando Python e Pandas para análise exploratória de d
 - Python
 - Pandas
 - Matplotlib
+- Seaborn
 
 ## Objetivo
 Explorar e visualizar dados para gerar insights.
